@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Переводчик</string>
+    <string name="hello">Привет!</string>
+    <string name="word">Слово</string>
+    <string name="trword">Перевод</string>
+    <string name="addbtn">Добавить</string>
+    <string name="change">Изменить</string>
+
+
+</resources>
